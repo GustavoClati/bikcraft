@@ -24,12 +24,31 @@
 .cor-5{
   color: var(--cor-5);
 }
+.cor-6{
+  color: var(--cor-6);
+}
 .cor-8{
   color: var(--cor-8);
+}
+.cor-10{
+  color: var(--cor-10);
+}
+.cor-11{
+  color: var(--cor-11);
 }
 .p-1{
   color: var(--p-1);
 }
+.p-2{
+  color: var(--p-2);
+}
+.p-4{
+  color: var(--p-4);
+}
+.p-5{
+  color: var(--p-5);
+}
+
 
 
 
